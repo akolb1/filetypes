@@ -13,7 +13,8 @@ $ go get github.com/akolb1/filetypes
 
 ## Usage & Example
 
-For usage and examples see the [Godoc](http://godoc.org/github.com/akolb1/filetypes).
+For usage and examples see the
+[![GoDoc](https://godoc.org/github.com/akolb1/filetypes?status.svg)](https://godoc.org/github.com/akolb1/filetypes)
 
 ## Author
 
