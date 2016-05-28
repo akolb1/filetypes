@@ -17,4 +17,4 @@ For usage and examples see the [Godoc](http://godoc.org/github.com/akolb1/filety
 
 ## Author
 
-Alex Kolbasovg
+Alex Kolbasov
